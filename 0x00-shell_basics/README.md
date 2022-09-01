@@ -1,1 +1,1 @@
-move scripts
+deletes files in cwd
