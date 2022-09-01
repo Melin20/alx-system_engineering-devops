@@ -1,1 +1,1 @@
-deletes files in cwd
+create directories
