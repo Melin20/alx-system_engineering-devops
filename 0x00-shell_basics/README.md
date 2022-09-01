@@ -1,1 +1,1 @@
-list all files with commas
+magic file
