@@ -1,1 +1,1 @@
-prints file
+we are symbols
