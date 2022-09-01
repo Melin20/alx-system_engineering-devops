@@ -1,1 +1,1 @@
-copy files
+move scripts
