@@ -1,1 +1,1 @@
-print all groups
+change file owner
