@@ -1,1 +1,1 @@
-creat a script that prints hello user
+add action to path
