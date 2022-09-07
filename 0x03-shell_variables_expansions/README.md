@@ -1,1 +1,1 @@
-local variable
+addition to true knowledge
