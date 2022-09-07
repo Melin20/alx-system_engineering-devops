@@ -1,1 +1,1 @@
-decimal to hexadecimal
+strong encryption
